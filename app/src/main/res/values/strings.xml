@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExamTest2</string>
+
+    <string name="wind_speed">\"wind_speed\":</string>
+    <string name="wind_degree">\"wind_degree\":</string>
+    <string name="wind_dir">\"wind_dir\":</string>
+    <string name="pressure">\"pressure\":</string>
+    <string name="precip">\"precip\":</string>
+    <string name="humidity">\"humidity\":</string>
+    <string name="cloudcover">\"cloudcover\":</string>
+    <string name="feelslike">\"feelslike\":</string>
+    <string name="uv_index">\"uv_index\":</string>
+    <string name="visibility">\"visibility\":</string>
+    <string name="is_day">\"is_day\":</string>
+
+</resources>
